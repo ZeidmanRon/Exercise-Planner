@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import { Exercise } from '../models/Exercise';
-import { fetchExercises } from '../api/exerciseApi';
+import { fetchExercises } from '../api/ExerciseApi';
 
 function ExerciseList() {
   const [exercises, setExercises] = useState<Exercise[]>([]);
