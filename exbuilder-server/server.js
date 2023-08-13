@@ -9,6 +9,7 @@ const { readExerciseData } = require('./exerciseData');
 app.use(cors());
 
 app.get('/api/exercises', (req, res) => {
+  console.log('im here');
   const exercises = readExerciseData();
   res.json(exercises);
 });
