@@ -1,0 +1,21 @@
+.exercise-card {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 16px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .exercise-title {
+    margin-top: 0;
+  }
+  
+  .exercise-details {
+    margin-top: 8px;
+  }
+  
+  .exercise-details p {
+    margin: 4px 0;
+  }
+  
