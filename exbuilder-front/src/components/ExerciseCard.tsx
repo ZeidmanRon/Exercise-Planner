@@ -4,13 +4,21 @@ import './ExerciseCard.css';
 
 interface ExerciseCardProps {
   exercise: Exercise;
+  enableDelete?: boolean; // Optional flag to enable delete button
+  onDelete?: (id: string) => void; // Optional callback for delete action
 }
 
-const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise }) => {
+const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise, enableDelete, onDelete }) => {
   const [isDarkMode, setIsDarkMode] = useState(false);
 
   const toggleDarkMode = () => {
     setIsDarkMode(!isDarkMode);
+  };
+
+  const handleDelete = () => {
+    if (onDelete) {
+      onDelete(exercise.id);
+    }
   };
 
   return (
@@ -25,6 +33,11 @@ const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise }) => {
       <button className={`dark-mode-button`} onClick={toggleDarkMode}>
         {isDarkMode ? 'Light Mode' : 'Dark Mode'}
       </button>
+      {enableDelete && (
+        <button className={`delete-button`} onClick={handleDelete}>
+          Delete
+        </button>
+      )}
     </div>
   );
 };
