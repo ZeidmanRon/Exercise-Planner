@@ -1,110 +1,92 @@
 [
   {
-    "id": "0",
-    "Title": "Partner plank band row",
-    "Desc": "The partner plank band row is an abdominal exercise where two partners perform single-arm planks while pulling on the opposite ends of an exercise band. This technique can be done for time or reps in any ab-focused workout.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
-  },
-  {
     "id": "1",
-    "Title": "Banded crunch isometric hold",
-    "Desc": "The banded crunch isometric hold is an exercise targeting the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. The band adds resistance and continuous tension to this popular exercise.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "סקוואט",
+    "Desc": "ביצוע התרגיל: עמידה ברגליים רחבות יותר מגופך, כאשר הברבל מונח על הכתפיים. כשאתה יורד, קפוץ אחורה והכי חשוב – הורד את הגוף בכסא הרחב, עד שהברבל עובר את הברכיים, חשוב שהברך לא תעבור את האזור הרחב. כשאתה עולה, שמור על גב ישר ועקום את הברך.",
+    "BodyPart": ["רגליים", "ישבן"],
+    "Equipment": ["ברבל", "משקולת"],
+    "Level": "בינוני",
+    "Type": "כוח"
   },
   {
     "id": "2",
-    "Title": "FYR Banded Plank Jack",
-    "Desc": "The banded plank jack is a variation on the plank that involves moving the legs in and out for repetitions. Having a band around the thighs forces the lower body to work harder, particularly the hips and glutes. The plank jack is commonly performed as part of a bodyweight circuit, or as part of a dynamic warm-up.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "דדליפט",
+    "Desc": "ביצוע התרגיל: הברבל מונח על הרגליים והגוף נמצא במעמד הולך על ארבע. הרגליים משתוללות אחורה ובזרועות נשאות את המשקולת.",
+    "BodyPart": ["גב", "רגליים", "ישבן"],
+    "Equipment": ["ברבל"],
+    "Level": "מתקדם",
+    "Type": "כוח"
   },
   {
     "id": "3",
-    "Title": "Banded crunch",
-    "Desc": "The banded crunch is an exercise targeting the abdominal muscles, particularly the rectus abdominis or \"six-pack\" muscles. The band adds resistance and continuous tension to this popular exercise.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "פוש-אפ",
+    "Desc": "ביצוע התרגיל: מתחילים במעמד התחלתי עם הכף מונחת באחורי המשקולת והידיים מושתתות על הרצפה. מתחילים בדחיפה למעלה, עד שהידיים מתיקרבות לחזה ומחזיקים רגע, ולאחר מכן חוזרים למעמד ההתחלתי.",
+    "BodyPart": ["חזה", "כתפיים", "שרירי היד"],
+    "Equipment": ["משקולת גוף"],
+    "Level": "מתחיל",
+    "Type": "כוח"
   },
   {
     "id": "4",
-    "Title": "Crunch",
-    "Desc": "The crunch is a popular core exercise targeting the rectus abdominis, or \"six-pack\" muscles, as well as the obliques. It has been the centerpiece of many ab-focused workouts, due to both its simplicity and the intense burn and mind-muscle connection it produces. It can be performed for time or reps as part of the ab-focused portion of any workout.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "פול-אפ",
+    "Desc": "ביצוע התרגיל: מושבים על המושב הסבון ונותנים את הרגליים על הגשרים, הידיים נמצאות מתחת למושב. מושכים את הבר למעלה, ולאחר מכן חוזרים למעמד ההתחלתי.",
+    "BodyPart": ["גב", "יד"],
+    "Equipment": ["בר לפול-אפ"],
+    "Level": "בינוני",
+    "Type": "כוח"
   },
   {
     "id": "5",
-    "Title": "Decline band press sit-up",
-    "Desc": "The decline band press sit-up is a weighted core exercise that works the rectus abdominis or \"six pack\" muscles, as well as the deep core muscles. It also taxes the muscles of the shoulders and upper back. Sit-up variations with added resistance are usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of the core-focused portion of a workout.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "פלאנק",
+    "Desc": "ביצוע התרגיל: נמצאים במעמד של כף ידיים והכפות מונחות על הרצפה. הגוף נמצא ישר כמו קורה, והמטרה היא לשמור על ישרות בגוף ועל נפילה אחידה. נשאים את הגוף בתנועת הבריחה שלך על הכף. חשוב לשמור על גב ישר, עצמות הישבן צריכות להיות נטויות ואזור הישבן צריך להישמר. אין לפלוט את הגוף כלפי מעלה או להוריד את הראש אל הרצפה.",
+    "BodyPart": ["גוף גלוי"],
+    "Equipment": ["משקל גוף"],
+    "Level": "מתחיל",
+    "Type": "ליבה"
   },
   {
     "id": "6",
-    "Title": "FYR2 Banded Frog Pump",
-    "Desc": "",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "לחיצת חזה",
+    "Desc": "ביצוע התרגיל: שכיבה על מבנה של לחיצה חזיתית, אזור הראש חופף מהרצפה, והידיים נמצאות רחוק מאוד, ממש ברף הראיה. הרגליים פתוחות ברחב כך שאתה מתקרב אל הרצפה בעקב ולא בירך.",
+    "BodyPart": ["חזה", "יד"],
+    "Equipment": ["משקולת"],
+    "Level": "מתחיל",
+    "Type": "כוח"
   },
   {
     "id": "7",
-    "Title": "Band low-to-high twist",
-    "Desc": "The band low-to-high twist is a core exercise targeting the upper abdominals and the obliques. Take care to perform it with control, as rapid, uncontrolled twisting can injure the spine. It is usually performed for moderate to high reps, at least 8-15 per side, as part of the core-focused portion of a workout.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Bands",
-    "Level": "Intermediate"
+    "Title": "שכיבות לחיצה",
+    "Desc": "ביצוע התרגיל: במעמד זה אתה חושב שאתה עושה את הלחיצות הכי קשות שפעם עשית. אתה מנסה להרגיש את כל השרירים האפשריים בחזה פועלים בזמן כל לחיצה. בעיקרון כל פעם חשוב להתחיל עם המשקל הכי קל. אחרי שאתה התחממת ועשית שניים שלושה סדרות והחזה שלך פתאום כבר מרגיש די מסוכן אתה יכול לגרום לו לפעול קצת קשה יותר. זה לא יהיה נעים אבל בטח ממש ממש יהיה יעיל.",
+    "BodyPart": ["חזה"],
+    "Equipment": ["משקולת"],
+    "Level": "מתקדם",
+    "Type": "כוח"
   },
   {
     "id": "8",
-    "Title": "Barbell roll-out",
-    "Desc": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. It is best performed with a barbell that has rotating collars, and is considered more difficult than other ab roller variations. Many lifters may not be able to perform a single rep at first, but once they can perform these for reps, they'll be rewarded with a seriously strong core.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Barbell",
-    "Level": "Intermediate"
+    "Title": "פולי אפ",
+    "Desc": "ביצוע התרגיל: בוחרים משקולות שמתאימים לכוח העצמות שלך ומתחילים בתנועת פיקחים. בכל שלב אתה מושך למעלה בכל עצמך. מנסה לשמור על השריר במשך זמן רב ומנסה להשתין על המכשיר (לא באמת אבל הצצה עצמית היא התנגדות חשובה).",
+    "BodyPart": ["גב", "יד"],
+    "Equipment": ["משקולת"],
+    "Level": "בינוני",
+    "Type": "כוח"
   },
   {
     "id": "9",
-    "Title": "Barbell Ab Rollout - On Knees",
-    "Desc": "The barbell roll-out is an abdominal exercise that utilizes a barbell in the place of an ab roller. It is best performed with a barbell that has rotating collars, and is considered more difficult than other ab roller variations. Many lifters may not be able to perform a single rep at first, but once they can perform these for reps, they'll be rewarded with a seriously strong core.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Barbell",
-    "Level": "Intermediate"
+    "Title": "לחיצת כתף",
+    "Desc": "ביצוע התרגיל: משקיעים את הגוף למסגרת הלחיצה באופן מחלקי ומשונה, כך שהשוליים על גבי החזה והבטן פתוחים מאוד. כשאתה עולה עושה זאת על חשבון שכיבת המושב. כשאתה יורד, נסה להגיע למעמד ההתחלתי.",
+    "BodyPart": ["כתפיים", "יד"],
+    "Equipment": ["משקולת"],
+    "Level": "מתחיל",
+    "Type": "כוח"
   },
   {
     "id": "10",
-    "Title": "Decline bar press sit-up",
-    "Desc": "The decline bar press sit-up is a weighted core exercise targeting the abdominal muscles, particularly the lower abs. It also challenges the shoulders and upper back to move the weight. Weighted sit-up variations are usually performed for moderate to high reps, such as 8-12 reps per set or more, as part of the core-focused portion of a workout.",
-    "Type": "Strength",
-    "BodyPart": "Abdominals",
-    "Equipment": "Barbell",
-    "Level": "Intermediate"
-  },
-  {
-    "id": "706199c1-5766-4c73-b9d1-07f40b9a72ac",
-    "Title": "rg",
-    "Desc": "erg",
-    "Type": "erg",
-    "BodyPart": "",
-    "Equipment": "",
-    "Level": ""
+    "Title": "פול-אפ בעליית רגליים",
+    "Desc": "ביצוע התרגיל: נכנסים לפול אפ, אוחזים במשקולת בידיים רחבות מעט יותר מרוחב כתפיים. בנוסף הפרק כלשהו בברך ועל איברי הישבן. מכאן מתחילים את התנועה ומחזיקים מעמד מקסימאלי נוסף על הפלור.",
+    "BodyPart": ["גב", "יד"],
+    "Equipment": ["בר לפול-אפ"],
+    "Level": "מתקדם",
+    "Type": "כוח"
   }
 ]
