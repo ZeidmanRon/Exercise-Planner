@@ -27,7 +27,9 @@ function ExerciseList() {
   return (
     <div className="relative overflow-x-auto">
       <table className="table-auto w-full text-sm text-gray-500 dark:text-gray-400  text-center">
-        <caption className="">my table Caption</caption>
+        <caption className="p-5 text-lg font-semibold text-right text-gray-900 bg-white dark:text-white dark:bg-gray-800">
+          תוכנית האימון:
+        </caption>
         <thead className="text-xs text-gray-700 uppercase bg-gray-50 dark:bg-gray-700 dark:text-gray-400">
           <tr>
             <th scope="col" className="px-6 py-3">

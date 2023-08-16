@@ -8,9 +8,6 @@ import ExerciseForm from './components/ExerciseForm';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Exercise App</h1>
-      </header>
       <main>
         <ExerciseList />
         {/* <ExerciseForm /> */}
