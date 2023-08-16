@@ -11,8 +11,8 @@ const ExerciseForm: React.FC = () => {
     Title: "",
     Desc: "",
     Type: "",
-    BodyPart: "",
-    Equipment: "",
+    BodyPart: [""],
+    Equipment: [""],
     Level: "",
   });
 
@@ -35,8 +35,8 @@ const ExerciseForm: React.FC = () => {
         Title: "",
         Desc: "",
         Type: "",
-        BodyPart: "",
-        Equipment: "",
+        BodyPart: [""],
+        Equipment: [""],
         Level: "",
       });
     } catch (error) {
