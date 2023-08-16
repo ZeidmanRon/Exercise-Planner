@@ -47,7 +47,7 @@ const ExerciseForm: React.FC = () => {
   return (
     <form onSubmit={handleSubmit}>
       <div>
-        <label htmlFor="Title">Title:</label>
+        <label htmlFor="Title">שם:</label>
         <input
           type="text"
           id="Title"
@@ -58,7 +58,7 @@ const ExerciseForm: React.FC = () => {
         />
       </div>
       <div>
-        <label htmlFor="Desc">Description:</label>
+        <label htmlFor="Desc">פירוט:</label>
         <input
           type="text"
           id="Desc"
@@ -69,7 +69,7 @@ const ExerciseForm: React.FC = () => {
         />
       </div>
       <div>
-        <label htmlFor="Type">Type:</label>
+        <label htmlFor="Type">סוג:</label>
         <input
           type="text"
           id="Type"

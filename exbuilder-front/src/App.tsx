@@ -13,7 +13,7 @@ function App() {
       </header>
       <main>
         <ExerciseList />
-        <ExerciseForm />
+        {/* <ExerciseForm /> */}
       </main>
       <footer>
         <p>&copy; {new Date().getFullYear()} Your Exercise App</p>
