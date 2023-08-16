@@ -30,11 +30,11 @@ const ExerciseCard: React.FC<ExerciseCardProps> = ({ exercise, enableDelete, onD
         <p><strong>Equipment:</strong> {exercise.Equipment}</p>
         <p><strong>Level:</strong> {exercise.Level}</p>
       </div>
-      <button className={`dark-mode-button`} onClick={toggleDarkMode}>
+      <button className={`dark-mode-button m-5`} onClick={toggleDarkMode}>
         {isDarkMode ? 'Light Mode' : 'Dark Mode'}
       </button>
       {enableDelete && (
-        <button className={`delete-button`} onClick={handleDelete}>
+        <button className={`delete-button border border-black `} onClick={handleDelete}>
           Delete
         </button>
       )}
