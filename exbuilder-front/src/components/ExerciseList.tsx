@@ -27,7 +27,7 @@ function ExerciseList() {
       <h1>Exercise List</h1>
       <div className="exercise-cards">
         {exercises.map((exercise) => (
-         <ExerciseCard key={exercise.id} exercise={exercise} enableDelete={false} onDelete={handleDelete} />
+         <ExerciseCard key={exercise.id} exercise={exercise} enableDelete={true} onDelete={handleDelete} />
         ))}
       </div>
     </div>
